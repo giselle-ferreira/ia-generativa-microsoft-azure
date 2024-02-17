@@ -1,8 +1,24 @@
 # ia-generativa-microsoft-azure
-- Gerando Imagens com o Microsoft
+- Gerando Imagens com o Microsoft Copilot.
+- Input 1:
+  
+![image](https://github.com/giselle-ferreira/ia-generativa-microsoft-azure/assets/84051263/985e2b69-4b47-4db6-b670-c8ba4a047819)
 
+- Output 1:
 
-# vision-studio-microsoft-azure
+![image](https://github.com/giselle-ferreira/ia-generativa-microsoft-azure/assets/84051263/55c82185-574b-4848-86a1-e166115dbfee)
+
+- Input 2:
+
+![image](https://github.com/giselle-ferreira/ia-generativa-microsoft-azure/assets/84051263/d7efe751-238f-422d-a37a-d53202534597)
+
+- Output 2:
+
+![image](https://github.com/giselle-ferreira/ia-generativa-microsoft-azure/assets/84051263/433fea75-6cd8-4362-b2a3-ba9bb59e987f)
+
+#
+
+# Reconhecimento de Texto a partir de imagens
 
 - Passo a passo de experimento utilizando Vision Studio/ **Azure AI Vision** para extrair texto de imagens sem a utilização de código, com tecnologia OCR (Optical Character Recognition). Realizado como desafio de projeto no Bootcamp **Microsoft Azure AI Fundamentals** da [Dio.me](https://dio.me)
 
@@ -48,22 +64,22 @@
 
 ## Passo 6
 - Marcar a opção conforme imagem abaixo
-- Depois clicar no link fornecido pela documentação [https://aka.ms/mslearn-ocr-images](https://aka.ms/mslearn-ocr-images), de onde será feito o download automaticamente do arquivo *ocr-images.zip*.
-
+  
 ![image](https://github.com/giselle-ferreira/vision-studio-microsoft-azure/assets/84051263/b9925fc8-c5b6-420a-9242-8bf68c6b189f)
 
 ## Passo 7
-- No portal, selecione "browse for a file" e selecione uma das imagens baixadas do arquivo anterior (lembrar de descompactar o zip primeiro).
-- Selecionar uma imagem e depois abrir. Escolhi a imagem "letter.jpg"
+- No portal, selecione "browse for a file" e selecione uma imagem com texto, e depois clique em abrir.
 - A coluna da esquerda mostra a imagem fornecida, e a da direita, o resultado do texto extraído.
 
-![image](https://github.com/giselle-ferreira/vision-studio-microsoft-azure/assets/84051263/cb04e08f-4bc6-45c7-bdfc-c71b29056f2b)
+![image](https://github.com/giselle-ferreira/ia-generativa-microsoft-azure/assets/84051263/7aac6ee3-8fd7-4b19-a2d0-689018fef0cf)
 
-- Teste com a imagem "note.jpg"
+- Teste com a imagem 2
 
-![image](https://github.com/giselle-ferreira/vision-studio-microsoft-azure/assets/84051263/a8a6bf45-40d3-4169-b86c-f5a297d35c47)
+![image](https://github.com/giselle-ferreira/ia-generativa-microsoft-azure/assets/84051263/6a2c93c9-8677-4cc7-8660-1e90bc24dbad)
 
+- Teste com a imagem 3
 
+![image](https://github.com/giselle-ferreira/ia-generativa-microsoft-azure/assets/84051263/4e103f4c-186a-4e59-bf0a-c6b27d66790e)
 
 ##
 
