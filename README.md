@@ -16,11 +16,13 @@
 
 ![image](https://github.com/giselle-ferreira/ia-generativa-microsoft-azure/assets/84051263/433fea75-6cd8-4362-b2a3-ba9bb59e987f)
 
+
 #
+
 
 # Reconhecimento de Texto a partir de imagens
 
-- Passo a passo de experimento utilizando Vision Studio/ **Azure AI Vision** para extrair texto de imagens sem a utilização de código, com tecnologia OCR (Optical Character Recognition). Realizado como desafio de projeto no Bootcamp **Microsoft Azure AI Fundamentals** da [Dio.me](https://dio.me)
+- Passo a passo de experimento utilizando Vision Studio/ **Azure AI Vision** para extrair texto de imagens sem a utilização de código, com tecnologia OCR (Optical Character Recognition).
 
 <br/>
 
@@ -80,6 +82,7 @@
 - Teste com a imagem 3
 
 ![image](https://github.com/giselle-ferreira/ia-generativa-microsoft-azure/assets/84051263/4e103f4c-186a-4e59-bf0a-c6b27d66790e)
+
 
 ##
 
